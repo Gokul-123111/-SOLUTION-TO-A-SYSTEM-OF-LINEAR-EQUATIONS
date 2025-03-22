@@ -16,7 +16,9 @@ End the program
 ## Program:
 
 #Program to find the solution for the given linear equations.
+
 #Developed by:Gokul.S 
+
 #RegisterNumber:212224240044
 
 ~~~
